@@ -1,0 +1,1 @@
+CuckooChess is a java chess applet, UCI engine and standalone chess program. DroidFish is a port of CuckooChess and the stockfish chess engine to the Android platform.
